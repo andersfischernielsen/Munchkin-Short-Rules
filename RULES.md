@@ -31,6 +31,7 @@ If you did not fight a monster, choose one of these options:
 
 ### Charity
 When your turn ends, you must have no more than five cards in your hand. If you have more, choose to:
+
  - Play cards until you're down to five (curses, items etc.)
  - Give cards to the lowest level player until you're down to five cards. If you're the lowest level player, discard cards until you're down to five.
 
