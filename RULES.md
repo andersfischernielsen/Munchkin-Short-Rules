@@ -2,8 +2,8 @@
 
 ## Setup
 
-- Divide the cards into a treasure (brown) and a door (yellow/whit) stack.
-- Give each player four of each card. Give each player a level token. Everyone should start at level 1. 
+- Divide the cards into a treasure stack and a door (or room) stack.
+- Give each player four cards from each stack. Give each player a level token. Everyone starts at level 1. 
 
 ### Cards
 - Item cards: Items have a price at the bottom om the card and "_+ somenumber_" at the top of the card. 
@@ -15,30 +15,29 @@
 ### Starting the Game
 - If you have any cards in your hand that are either race or class cards, play them immediately and gain their abilities.
 - If you have any item cards and want to equip them you can also do so now.
-- Roll the dice. Decide whether the player with the lowest or highest number starts. 
+- Roll the dice. Decide who starts from the die rolls.
 
 ### Kick Open the Door
- - Draw a card from the "door pile". 
- - If it's a monster - fight it, then your turn ends. 
- - If it's a curse - it hits you. Then read below.
- - Any other card - it's yours. Put it in your hand. Then read below.
+ - Draw a card from the door deck. 
+ - If it's a monster - fight it. Then your turn ends. 
+ - If it's a curse - it hits you. Then Look For Trouble or Loot the Room.
+ - If it's any other card - put it in your hand. Look For Trouble or Loot the Room.
 
 ### Look For Trouble or Loot the Room
-If you did not fight a monster, choose one of these option:
-#### Look For Trouble
-Choose to play a monster you hav in your hand and fight it for levels and treasure. 
-#### Loot the Room
-Choose to loot the "room" you entered and draw another card from the door pile. Keep it in your hand. 
+If you did not fight a monster, choose one of these options:
+
+ - **Look For Trouble:** Choose to play a monster you hav in your hand and fight it for levels and treasure. 
+ - **Loot the Room:** Choose to loot the "room" you entered and draw another card from the door pile. Keep it in your hand. 
 
 ### Charity
-When your turn ends, you must have no more than five cards in your hand. If you have more, choose:
+When your turn ends, you must have no more than five cards in your hand. If you have more, choose to:
  - Play cards until you're down to five (curses, items etc.)
- - Give cards to the lowest level player until you're down to five cards. If you're the lowest level player, discard cards until you're down to five.  
+ - Give cards to the lowest level player until you're down to five cards. If you're the lowest level player, discard cards until you're down to five.
 
 ## Combat
- - If your level plus bonuses add up to more than the monster, you win. You only get level(s) from **killing** monster(s). 
- - If you and the monster are tied, or the monster has more, you lose. Ask for help, or try to run away. 
- - If more monsters are in the battle, their total strength counts. You can defeat one and try to Run Away from the other. 
+ - If your level plus bonuses add up to more than the monster, you win. You only get level(s) from **killing** monster(s), not making them disappear etc. 
+ - If you and the monster are tied, or the monster has more than you, you lose. Ask for help, or try to run away. 
+ - If more monsters are in the battle, beat their total strength. You can defeat one and try to Run Away from the other, though. 
 
 ### Asking For Help
  - Only one player can help you if you cannot defeat a monster by yourself.
@@ -58,10 +57,13 @@ When your turn ends, you must have no more than five cards in your hand. If you 
 - You can only carry one Big item.
 - You may not trade items from your hand - only from the table. Traded items must go on the table, too.
 
-
+## Curses
+ - Curses in your hand can be played at any time on any player. 
+ - The victim chooses what item a multiple-item curse applies to.
+ 
 ## Death
  - If you die, you lose everything except for your level, curses on you, your class and your race.
- - Put every other card you have on the table, face up.
+ - Put every other card you have on the table face up.
  - The other players each pick items, until everything is gone. The highest level players pick first.
  - On your next turn, draw four cards from each deck, like when the game began.
 
