@@ -13,8 +13,8 @@
 ## Playing
 
 ### Starting the Game
-- If you have any cards in your hand that are either race or class cards, play them immediately, and gain their abilities.
-- If you have any item cards and want to equip them, you can also do so now.
+- If you have any cards in your hand that are either race or class cards, play them immediately and gain their abilities.
+- If you have any item cards and want to equip them you can also do so now.
 - Roll the dice. Decide whether the player with the lowest or highest number starts. 
 
 ### Kick Open the Door
@@ -36,8 +36,20 @@ When your turn ends, you must have no more than five cards in your hand. If you 
  - Give cards to the lowest level player until you're down to five cards. If you're the lowest level player, discard cards until you're down to five.  
 
 ## Combat
- - If your level plus bonuses add up to more than the monster, you win. You only get a level from **killing** the monster.
- - If you and the monster are tied, or the monster has more, you lose. Roll the dice. If you get a 5 or more, you escape. If not, read the monster card and do what the "Bad Stuff" is. 
+ - If your level plus bonuses add up to more than the monster, you win. You only get level(s) from **killing** monster(s). 
+ - If you and the monster are tied, or the monster has more, you lose. Ask for help, or try to run away. 
+ - If more monsters are in the battle, their total strength counts. You can defeat one and try to Run Away from the other. 
+
+### Asking For Help
+ - Only one player can help you if you cannot defeat a monster by yourself.
+ - Players will want some of the treasure if they help. Agree on who gets what and who picks first before helping. 
+ - Every bonus the helper can add to the fight applies. 
+ - The helper does not gain levels, only treasure, unless a card specifies otherwise.
+ - If you cannot defeat the monster(s), you both have to Run Away.
+
+### Running Away
+ - Roll the dice. If you get a 5 or more, you escape. If not, read the monster card and do what the "Bad Stuff" is. 
+ - You have to Run Away from each separate monster (roll for each monster).
 
 ## Items
 - Items are not equipped when turned sideways on the table. You can only equip when not in combat. 
@@ -45,6 +57,13 @@ When your turn ends, you must have no more than five cards in your hand. If you 
 - Selling items for 1000 Gold gets you a level.
 - You can only carry one Big item.
 - You may not trade items from your hand - only from the table. Traded items must go on the table, too.
+
+
+## Death
+ - If you die, you lose everything except for your level, curses on you, your class and your race.
+ - Put every other card you have on the table, face up.
+ - The other players each pick items, until everything is gone. The highest level players pick first.
+ - On your next turn, draw four cards from each deck, like when the game began.
 
 ## General Rules
 
@@ -58,3 +77,5 @@ When your turn ends, you must have no more than five cards in your hand. If you 
 - Super Munchkin and Half-Breeds do not suffer penalties for either race/class they are. 
 - Treasure cards cannot be played during combat, unless the cards says so.
 - "Go Up A Level" cards can be played on both yourself or others.
+- If an undead monster is in battle, any player can add another undead monster to the battle.
+ 
