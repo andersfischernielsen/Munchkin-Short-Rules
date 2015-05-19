@@ -67,15 +67,13 @@ When your turn ends, you must have no more than five cards in your hand. If you 
 
 ## General Rules
 
-- Cards in front of you are in play. These would be race(s), class(es)m curses and items etc. When a card has been played it cannot be taken back into your hand.
+- Cards in front of you are in play (race(s), class(es) curses, items etc.) When a card has been played it cannot be taken back into your hand.
 - You can **only** reach level 10 by killing a monster. 
 - You can never have a lower level than 1.
-- At any time can you: Discard a class or race, play a "Go Up a Level" or Hireling or play a curse.
+- At any time you can: Discard a class or race, play a "Go Up a Level" card, Hireling or curse.
 - If you are not in combat, you are able to: Trade an items, change equipped items, play a card you just received.
-- When it's your turn you can: Play a new class or race card (any time), sell items for levels (except when you are in combat), play  items. 
-- Class cards can be discarded at all times. 
+- On your turn you can: Play a new class or race card (any time), sell items for levels (except when you are in combat) and play items.  
 - Super Munchkin and Half-Breeds do not suffer penalties for either race/class they are. 
-- Treasure cards cannot be played during combat, unless the cards says so.
-- "Go Up A Level" cards can be played on both yourself or others.
+- Treasure cards cannot be played during combat, unless the card(s) says so.
+- "Go Up A Level" cards can be used on any player.
 - If an undead monster is in battle, any player can add another undead monster to the battle.
- 
