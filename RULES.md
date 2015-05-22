@@ -74,7 +74,7 @@ When your turn ends, you must have no more than five cards in your hand. If you 
 - You can **only** reach level 10 by killing a monster. 
 - You can never have a lower level than 1.
 - At any time you can: Discard a class or race, play a "Go Up a Level" card, Hireling or curse.
-- If you are not in combat, you are able to: Trade an items, change equipped items, play a card you just received.
+- If you are not in combat, you are able to: Trade items, change equipped items, play a card you just received.
 - On your turn you can: Play a new class or race card (any time), sell items for levels (except when you are in combat) and play items.  
 - Super Munchkin and Half-Breeds do not suffer penalties for either race/class they are. 
 - Treasure cards cannot be played during combat, unless the card(s) says so.
