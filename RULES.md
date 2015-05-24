@@ -2,12 +2,12 @@
 
 ## Setup
 
-- Divide the cards into a treasure stack and a door (or room) stack.
+- Divide the cards into a treasure stack and a door (AKA room) stack.
 - Give each player four cards from each stack. Give each player a level token. Everyone starts at level 1. 
 
 ### Cards
-- Item cards: Items have a price at the bottom om the card and "_+ somenumber_" at the top of the card. 
-- Monster cards: Monster cards have a level and name at the top of the card and "_somenumber Treasures_" at the bottom. 
+- Item cards: Items have a price at the bottom om the card and "_+ some-number_" at the top of the card. 
+- Monster cards: Monster cards have a level and name at the top of the card and "_some-number Treasures_" at the bottom. 
 - Curse cards: Curse cards have "_Curse!_" at the top of the card.
 
 ## Playing
