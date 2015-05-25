@@ -28,7 +28,7 @@
 ### Look For Trouble or Loot the Room
 If you did not fight a monster, choose one of these options:
 
- - **Look For Trouble:** Choose to play a monster you hav in your hand and fight it for levels and treasure. 
+ - **Look For Trouble:** Choose to play a monster you have in your hand and fight it for levels and treasure. 
  - **Loot the Room:** Choose to loot the "room" you entered and draw another card from the door pile. Keep it in your hand. 
 
 ### Charity
