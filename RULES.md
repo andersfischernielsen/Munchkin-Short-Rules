@@ -9,6 +9,8 @@
 - Item cards: Items have a price at the bottom om the card and "_+ some-number_" at the top of the card. 
 - Monster cards: Monster cards have a level and name at the top of the card and "_some-number Treasures_" at the bottom. 
 - Curse cards: Curse cards have "_Curse!_" at the top of the card.
+- Race cards: Race cards have "race" at the bottom of the card.
+- Class cards: Race cards have "class" at the bottom of the card.
 
 ## Playing
 
